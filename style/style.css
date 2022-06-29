@@ -1,0 +1,35 @@
+/*Estilos CSS para dar fprmato*/
+
+
+html{
+    background-image: url(/images/background-image.jpg);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+    color: white;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+   padding: 5px 40px;
+}
+
+button {
+    padding: 12px 55px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button {
+    padding: 12px 55px;
+}
